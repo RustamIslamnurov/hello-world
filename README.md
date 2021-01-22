@@ -1,3 +1,5 @@
 # hello-world
 
-My furst commit 
+Hi i am Rustam
+
+My first commit 
