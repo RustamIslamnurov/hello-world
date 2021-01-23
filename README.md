@@ -5,5 +5,6 @@ Hi i am Rustam
 My first commit 
 
 купи машину 
+Bmw 320d xdrive 2018
 Сделай обзор машины 
 Произведи обсуживание 
