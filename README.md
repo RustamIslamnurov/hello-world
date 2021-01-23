@@ -1,7 +1,13 @@
 # hello-world
 
-Hi i am Rustam
 
-My first commit 
+Odens cold dry
+Привет 
+как дела 
 
-Новый изменения для того чтобы 
+
+нормально
+Main: У тебя как? 
+
+
+Rustam1: всё ok
