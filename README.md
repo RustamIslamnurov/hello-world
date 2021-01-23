@@ -8,3 +8,6 @@ Odens cold dry
 
 нормально
 Main: У тебя как? 
+
+
+Rustam1: всё ok
